@@ -46,3 +46,5 @@ We format our shape by changing the :
 - and border -> shape style -> border
 
 Effect :
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/96d66132-5691-4f83-a52a-8d77a96bd823)
