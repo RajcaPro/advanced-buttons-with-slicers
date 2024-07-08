@@ -47,4 +47,7 @@ We format our shape by changing the :
 
 Effect :
 
-![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/96d66132-5691-4f83-a52a-8d77a96bd823)
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/2eb93698-02b1-412c-8e99-00501d4c8de2)
+
+add slicers -> date (choose what you want, in our case it's the date and the countries)
+move slicers to the very top : select slicer -> format section -> bring forward
