@@ -30,4 +30,7 @@ Effect :
 ![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/d001b8a5-5fa8-4fc2-a378-4be62c7d0caf)
 
 
+To illustrate the changes made by the button, let's add a KPI in the form of Total Revenue and a stack bar chart total revenue by product category.
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/070fc57e-72f6-4dfe-b344-17ef58247476)
 
