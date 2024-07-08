@@ -62,7 +62,7 @@ Effect :
 
 The magical moment has arrived in which we will explain how we will connect the rectangle and the slicers to the button!  GET STARTED 🚀🚀🚀
 
-Bookmarks will help us in all this by saving the state with the slicers and field displayed !
+3. Bookmarks will help us in all this by saving the state with the slicers and field displayed !
 
 We need two of them.
 1) To display the slicers 
