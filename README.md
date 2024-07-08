@@ -61,3 +61,74 @@ Effect :
 ![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/f4fee647-92d5-4c3e-a3bb-18b7836bd5f2)
 
 The magical moment has arrived in which we will explain how we will connect the rectangle and the slicers to the button!  GET STARTED 🚀🚀🚀
+
+Bookmarks will help us in all this by saving the state with the slicers and field displayed !
+
+We need two of them.
+1) To display the slicers 
+2) To hide the slicers
+
+To create a bookmark, select : view -> show panes -> bookmarks
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/82d8c712-970e-4f83-902d-c0036b2e0b0f)
+
+For the purpose of this task, let's create two bookmarks named X OPEN and Y CLOSE 
+
+After creating the bookmark, click on the 3 dots next to the x option and select update to load the current view into the bookmark.
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/5ca42e6b-c411-41e9-852e-25b39b056450)
+
+Now we want to create a bookmark that hides our filters. 
+To do this we go to : view -> show panes -> selection
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/dedda922-a157-49e0-8567-b6a3edb3da35)
+
+We see several slicers, a shape and a button. we hide them by clicking on the icon resembling an eye ;)
+
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/10b4c85b-28a3-4d5d-9f9b-0f956360ccce)
+
+Effect :
+
+everything has been hidden :) 
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/ec7722cd-36b0-4c8d-a3c2-0f58feed8ac6)
+
+To update the bookmark use 3 dots and update for "y close".
+
+The final step is to add an action to our "Slicer Settings" button and arrow !
+
+Click on the button to activate the action section.
+Next, we select the action type for the bookmark and the previously saved bookmark "x open".
+
+Effect :
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/4501e107-39ab-4a2e-a53b-8e6d980484e6)
+
+by clicking on the button our slicers will be displayed!🚀
+
+Now let's deal with the arrow.
+select arrow -> section format -> action -> type bookmark -> "y close"
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/c5ffdcd7-bbc6-4fdd-8754-c25416f5be3b)
+
+now press the arrow and go to report !
+
+We have one VERY IMPORTANT THING TO DO.
+Namely, when we select something on one of the slicers and we want to go to the report page because, for example, the slicer field covers the chart, the data changes to the state before selecting the option!!!!
+
+
+To avoid this we go to our bookmarks, select the 3 dots and uncheck the "DATE" section .
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/02886c13-525f-4daa-8fe2-7065e6045338)
+
+That's all in this article ! 
+
+I hope you will use this technique and show it off at work : ) 
+
+Greetings,
+Mateusz Rajca
+
+
+
+
+
