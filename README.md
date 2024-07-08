@@ -34,3 +34,15 @@ To illustrate the changes made by the button, let's add a KPI in the form of Tot
 
 ![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/070fc57e-72f6-4dfe-b344-17ef58247476)
 
+2. adding a field for slicers
+
+In the next step we add an empty space for our slicers !
+
+insert section -> elements -> shapes -> rectangle
+
+We format our shape by changing the :
+
+- fill colour -> shape style -> fill
+- and border -> shape style -> border
+
+Effect :
