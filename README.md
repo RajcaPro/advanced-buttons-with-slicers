@@ -14,6 +14,7 @@ He admits at first glance this may seem like black magic. It certainly raises so
 Let's start from the beginning. 
 
 BUTTON 
+
 First, go to the Insert section then find the element compartment and select the empty button -> BLANK
 
 <img width="258" alt="image" src="https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/70910ecb-49ca-4e5b-ae34-0b5600e2f844">
