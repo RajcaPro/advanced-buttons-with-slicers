@@ -13,9 +13,21 @@ He admits at first glance this may seem like black magic. It certainly raises so
 
 Let's start from the beginning. 
 
-BUTTON 
+1. BUTTON 
 
 First, go to the Insert section then find the element compartment and select the empty button -> BLANK
 
 <img width="258" alt="image" src="https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/70910ecb-49ca-4e5b-ae34-0b5600e2f844">
+
+After adding our blank, let's change a few settings for it such as : 
+- text inside -> button style section 
+- add shadow options -> button style section 
+- change fill -> button style -> fill section
+- and change the background so the colours complement each other -> size and style section 
+
+Effect :
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/d001b8a5-5fa8-4fc2-a378-4be62c7d0caf)
+
+
 
