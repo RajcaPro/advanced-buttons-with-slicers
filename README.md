@@ -50,4 +50,14 @@ Effect :
 ![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/2eb93698-02b1-412c-8e99-00501d4c8de2)
 
 add slicers -> date (choose what you want, in our case it's the date and the countries)
+
 move slicers to the very top : select slicer -> format section -> bring forward
+
+Finally, add an arrow button and also position it at the top: insert -> elements -> buttons -> arrow
+
+
+Effect :
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/f4fee647-92d5-4c3e-a3bb-18b7836bd5f2)
+
+The magical moment has arrived in which we will explain how we will connect the rectangle and the slicers to the button!  GET STARTED 🚀🚀🚀
