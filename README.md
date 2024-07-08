@@ -96,7 +96,7 @@ everything has been hidden :)
 
 To update the bookmark use 3 dots and update for "y close".
 
-The final step is to add an action to our "Slicer Settings" button and arrow !
+4. The final step is to add an action to our "Slicer Settings" button and arrow !
 
 Click on the button to activate the action section.
 Next, we select the action type for the bookmark and the previously saved bookmark "x open".
@@ -114,7 +114,7 @@ select arrow -> section format -> action -> type bookmark -> "y close"
 
 now press the arrow and go to report !
 
-We have one VERY IMPORTANT THING TO DO.
+5. We have one VERY IMPORTANT THING TO DO.
 Namely, when we select something on one of the slicers and we want to go to the report page because, for example, the slicer field covers the chart, the data changes to the state before selecting the option!!!!
 
 
