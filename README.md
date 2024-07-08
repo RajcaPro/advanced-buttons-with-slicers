@@ -16,4 +16,5 @@ Let's start from the beginning.
 BUTTON 
 First, go to the Insert section then find the element compartment and select the empty button -> BLANK
 
-![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/f8321617-cd7d-446f-99ad-98eb6e477d81)
+<img width="258" alt="image" src="https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/70910ecb-49ca-4e5b-ae34-0b5600e2f844">
+
