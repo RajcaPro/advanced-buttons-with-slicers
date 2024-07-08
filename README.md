@@ -3,7 +3,8 @@ No room for slicers because your report has too many visuals ? There is a way !
 Use this trick and get extra room for your slicers ! 
 
 
-<img width="366" alt="image" src="https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/922de6c8-9cbc-4519-8b2a-2ac9a1794af2">
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/b85c04b7-bd1c-4cd9-aaf8-b7144bfafa74)
+
 
 
 He admits at first glance this may seem like black magic. It certainly raises some questions for you such as :
