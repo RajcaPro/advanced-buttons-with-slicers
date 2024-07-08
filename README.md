@@ -110,9 +110,13 @@ by clicking on the button our slicers will be displayed!🚀
 Now let's deal with the arrow.
 select arrow -> section format -> action -> type bookmark -> "y close"
 
+now press the arrow and go to report !
+
+![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/72a942bf-40cc-416d-a621-0aee85c6d895)
+
+
 ![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/c5ffdcd7-bbc6-4fdd-8754-c25416f5be3b)
 
-now press the arrow and go to report !
 
 5. We have one VERY IMPORTANT THING TO DO.
 Namely, when we select something on one of the slicers and we want to go to the report page because, for example, the slicer field covers the chart, the data changes to the state before selecting the option!!!!
