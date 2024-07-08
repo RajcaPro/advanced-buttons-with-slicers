@@ -91,6 +91,7 @@ We see several slicers, a shape and a button. we hide them by clicking on the ic
 Effect :
 
 everything has been hidden :) 
+
 ![image](https://github.com/RajcaPro/advanced-buttons-with-slicers/assets/175021059/ec7722cd-36b0-4c8d-a3c2-0f58feed8ac6)
 
 To update the bookmark use 3 dots and update for "y close".
